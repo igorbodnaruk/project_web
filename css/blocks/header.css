@@ -65,6 +65,8 @@
 	.header-login {
         margin-left: 30px;
 	}
+}img{
+	height: 30px;
 }
 
 @media (max-width: 991px) {
