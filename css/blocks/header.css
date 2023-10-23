@@ -63,14 +63,17 @@
 		margin-left: 50px;
 	}
 	.header-login {
-        margin-left: 30px;
+		margin-left: 30px;
 	}
-}img{
+}
+
+img {
 	height: 30px;
 }
 
 @media (max-width: 991px) {
-    .header-nav, .header-login {
+	.header-nav,
+	.header-login {
 		display: none;
 	}
 }
